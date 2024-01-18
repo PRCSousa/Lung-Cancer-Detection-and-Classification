@@ -2,20 +2,11 @@
 
 - Useful links:
     - [Github](https://github.com/Panda-Hacks/LungCancerFound)
-    - [Hounsfield Unit](https://www.ncbi.nlm.nih.gov/books/NBK547721/#:~:text=The%20Hounsfield%20unit%20(HU%20isto%20produce%20a%20grayscale%20image.)
+    - [Hounsfield Unit](https://www.ncbi.nlm.nih.gov/books/NBK547721/#:~:text=The%20Hounsfield%20unit%20(HU%20isto%20produce%20a%20grayscale%20image.))
     - [Pyradiomics](https://pyradiomics.readthedocs.io/en/latest/usage.html)
     - [LIDC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)
     - [DICOM/NBIA Download](https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
-- Project1_Orientations.pdf - pdf from moodle with the project orientations
+
 - Ethical_Legal_Implications.pdf - one page pdf document requested with the ethical and legal implications and the framework for current and future regulation issues
-- First_Look.ipynb - First experiments on the first look at the project
-- BatchExtractor - folder with all the files necessary for the feature extraction process, appart from the patient files
-- DADOSTODOS.csv - csv file with all the data obtained with the extraction process
-- Data_preprocessor - code file for the feature extraction and the algorythms that use the extracted data from DADOSTODOS.csv
-- Documentos - useful information available on moodle
-- Content in Documentos:
-    - zip file - xml de todos os pacientes
-    - diagnosis_anotations.xls - anotações dos pacientes
-    - nodule_counts_by_pacient.xlsx - contagem de nódulos
-    - LIDC-IDRI_MetaData.csv - metadados (localização do nódulo, IDs, etc)
-    - Info_nodulos.xls - informações sobre cada nódulo (coordenadas, tamanho, etc)
+- ImageDataExtractor - folder with all the files necessary for the feature extraction process, appart from the patient files
+- DataPreprocessor - code file for the feature extraction and the algorythms that use the extracted data from DADOSTODOS.csv
